@@ -3,3 +3,6 @@ def test(*args, **kwargs):
 
 
 test()
+
+def function(num):
+    print(num)
